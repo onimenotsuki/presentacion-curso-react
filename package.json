@@ -2,9 +2,12 @@
   "name": "presentacion-curso-react",
   "version": "0.1.0",
   "private": true,
+  "license": "UNLICENSED",
+  "author": "Edgar Talledos <onimenotsuki@gmail.com> (https://medium.com/@edgar.talledos)",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
+    "react-impressjs": "^1.1.0",
     "react-scripts": "1.1.4"
   },
   "scripts": {
